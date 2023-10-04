@@ -7,7 +7,7 @@ public class Values {
     List<Integer> numbers;
 
     public Values() {
-        this.numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10,11,2,5);
+        this.numbers = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9, 10,11,2,5,-1,15,30);
     }
 
     @Override

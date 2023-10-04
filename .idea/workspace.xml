@@ -5,21 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="18ecb0f1-7234-4269-bfa4-497f3a8d0584" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/D10OddMultipleTreeOrFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/D11SumOfSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/D1NumericOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/D2SumPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/D3AllPositives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/D4RemoveOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/D5MediaLargerFive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/D6HasGreaterThanTen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/D7FindSecondLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/D8SumDigitsAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/D9NoRepeatNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stream_api/Values.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/D12MultipplyAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/D13FilterInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/D14FindBiggestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/D15HasNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/D16OddAndPairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/D17FilterPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/D18AllEquals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stream_api/D19SumDivisorsOfThreeAndFive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stream_api/Values.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stream_api/Values.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,25 +36,25 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2WGUVvQ4GDXhrMjlukLtm1cAJnD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/vinicius/IdeaProjects/stream_api/src/desafios",
-    "onboarding.tips.debug.path": "C:/Users/vinicius/IdeaProjects/stream_api/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/vinicius/IdeaProjects/stream_api/src/desafios&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vinicius/IdeaProjects/stream_api/src/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\vinicius\IdeaProjects\stream_api\src\desafios" />
@@ -67,9 +63,9 @@
       <recent name="C:\Users\vinicius\IdeaProjects\stream_api\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.D11SumOfSquare">
-    <configuration name="D10OddMultipleTreeOrFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream_api.D10OddMultipleTreeOrFive" />
+  <component name="RunManager" selected="Application.D19SumDivisorsOfThreeAndFive">
+    <configuration name="D15HasNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream_api.D15HasNegative" />
       <module name="stream_api" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D11SumOfSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream_api.D11SumOfSquare" />
+    <configuration name="D16OddAndPairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream_api.D16OddAndPairs" />
       <module name="stream_api" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D7FindSecondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream_api.D7FindSecondLargest" />
+    <configuration name="D17FilterPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream_api.D17FilterPrime" />
       <module name="stream_api" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D8SumDigitsAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream_api.D8SumDigitsAll" />
+    <configuration name="D18AllEquals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream_api.D18AllEquals" />
       <module name="stream_api" />
       <extension name="coverage">
         <pattern>
@@ -120,8 +116,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="D9NoRepeatNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stream_api.D9NoRepeatNumbers" />
+    <configuration name="D19SumDivisorsOfThreeAndFive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stream_api.D19SumDivisorsOfThreeAndFive" />
       <module name="stream_api" />
       <extension name="coverage">
         <pattern>
@@ -135,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.D11SumOfSquare" />
-        <item itemvalue="Application.D10OddMultipleTreeOrFive" />
-        <item itemvalue="Application.D9NoRepeatNumbers" />
-        <item itemvalue="Application.D8SumDigitsAll" />
-        <item itemvalue="Application.D7FindSecondLargest" />
+        <item itemvalue="Application.D19SumDivisorsOfThreeAndFive" />
+        <item itemvalue="Application.D18AllEquals" />
+        <item itemvalue="Application.D17FilterPrime" />
+        <item itemvalue="Application.D16OddAndPairs" />
+        <item itemvalue="Application.D15HasNegative" />
       </list>
     </recent_temporary>
   </component>
@@ -153,5 +149,16 @@
       <updated>1696358441094</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/stream_api/D17FilterPrime.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
